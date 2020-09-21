@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rinat\\Documents\\Coding\\NetCore\\RSdesk\\RSdesk.csproj",
-      "projectName": "RSdesk",
-      "projectPath": "C:\\Users\\Rinat\\Documents\\Coding\\NetCore\\RSdesk\\RSdesk.csproj",
+      "projectUniqueName": "C:\\Users\\Rinat\\Documents\\Coding\\NetCore\\SureDesk\\SureDesk.csproj",
+      "projectName": "SureDesk",
+      "projectPath": "C:\\Users\\Rinat\\Documents\\Coding\\NetCore\\SureDesk\\SureDesk.csproj",
       "packagesPath": "C:\\Users\\Rinat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rinat\\Documents\\Coding\\NetCore\\RSdesk\\obj\\",
+      "outputPath": "C:\\Users\\Rinat\\Documents\\Coding\\NetCore\\SureDesk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

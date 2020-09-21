@@ -1,6 +1,6 @@
 using System;
 
-namespace RSdesk.Models
+namespace SureDesk.Models
 {
     public class Ticket
     {

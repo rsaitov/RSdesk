@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using RSdesk.Data;
+using SureDesk.Data;
 
-namespace RSdesk.Controllers
+namespace SureDesk.Controllers
 {
     [Route("api/tickets")]
     [ApiController]

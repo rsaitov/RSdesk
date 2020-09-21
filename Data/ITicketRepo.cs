@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using RSdesk.Models;
+using SureDesk.Models;
 
-namespace RSdesk.Data
+namespace SureDesk.Data
 {
     public interface ITicketRepo
     {

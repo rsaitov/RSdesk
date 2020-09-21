@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace RSdesk.Models
+namespace SureDesk.Models
 {
     public class Contact
     {
@@ -9,7 +9,7 @@ namespace RSdesk.Models
         public string LastName { get; set; }
         public string Phone { get; set; }
         public string Email { get; set; }
-        
+
         public List<Client> Clients {get; set;}        
     }
 }

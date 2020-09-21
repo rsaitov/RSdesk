@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Rinat\\Documents\\Coding\\NetCore\\RSdesk\\RSdesk.csproj",
+  "FilePath": "c:\\Users\\Rinat\\Documents\\Coding\\NetCore\\SureDesk\\SureDesk.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14389,7 +14389,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "RSdesk",
+  "RootNamespace": "SureDesk",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
